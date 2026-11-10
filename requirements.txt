@@ -21,3 +21,4 @@ matplotlib>=3.8.0
 
 # ── Logging (TensorBoard) ─────────────────────────────────────
 tensorboardX>=2.6.0
+tensorboard>=2.16.0
